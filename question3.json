@@ -1,0 +1,18 @@
+[
+  {
+            "question": "The Sigmoid function output is in the range (0, 1). Given that the ReLU output is -2.5, what would be the approximate output of the Sigmoid function?",
+            "type": "numeric",
+            "answers": [
+                {
+                    "type": "range",
+                    "range": [0, 0.1],
+                    "correct": true,
+                    "feedback": "Correct! The Sigmoid function maps values to the range (0, 1), and the ReLU output being -2.5 would result in a Sigmoid output close to 0."
+                },
+                {
+                    "type": "default",
+                    "feedback": "Incorrect. Try again. Hint: Consider the Sigmoid function output range."
+                }
+            ]
+        }
+]
