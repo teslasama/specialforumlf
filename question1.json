@@ -1,6 +1,6 @@
 [
   {
-            "question": "The number of parameters in a Dense layer is calculated as (input_neurons + 1) * output_neurons. What is the total number of parameters for a Dense layer with 50 input neurons and 30 output neurons?",
+            "question": "What is the total number of parameters for a Dense layer with 50 input neurons and 30 output neurons?",
             "type": "numeric",
             "answers": [
                 {
