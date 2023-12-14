@@ -30,7 +30,7 @@
                 },
                 {
                     "answer": "It prevents overfitting by dropping out random neurons during training.",
-                    "correct": true,
+                    "correct": false,
                     "feedback": "Correct! Dense layer prevents overfitting through dropout."
                 }
             ],
